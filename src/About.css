@@ -1,0 +1,18 @@
+.about {
+    padding-right: 35px;
+    padding-left: 35px;
+    margin-top: 30px;
+}
+
+.about--title {
+    color: #F5F5F5;
+    font-weight: bold;
+    margin: 0px 0px 5px 0px;
+}
+
+.about--content {
+    color: #DCDCDC;
+    font-size: 12px;
+    line-height: 150%;
+    margin: 0;
+}

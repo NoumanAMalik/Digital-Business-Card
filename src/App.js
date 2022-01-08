@@ -7,7 +7,7 @@ import Footer from "./Footer.js";
 
 const App = () => {
     return (
-        <div>
+        <div className="card">
             <Info />
             <About />
             <Interests />
