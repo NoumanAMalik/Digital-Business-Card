@@ -1,7 +1,7 @@
 {
   "name": "digital-business-card",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://noumanamalik.github.io/Digital-Business-Card/",
   "dependencies": {
     "-": "^0.0.1",
